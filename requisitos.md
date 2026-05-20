@@ -1,6 +1,6 @@
-# Requisitos Funcionales y No Funcionales — ATS Mini (AI-Powered)
+# Requisitos Funcionales y No Funcionales — ATS Smart (AI-Powered)
 
-Este documento detalla los Requisitos Funcionales (RF) y Requisitos No Funcionales (RNF) de la plataforma inteligente de análisis y gestión de postulaciones laborales (**ATS Mini**). El sistema está diseñado bajo una arquitectura de API RESTful con control de acceso basado en roles para **Postulantes**, **Reclutadores** y **Administradores**.
+Este documento detalla los Requisitos Funcionales (RF) y Requisitos No Funcionales (RNF) de la plataforma inteligente de análisis y gestión de postulaciones laborales (**ATS Smart**). El sistema está diseñado bajo una arquitectura de API RESTful con control de acceso basado en roles para **Postulantes**, **Reclutadores** y **Administradores**.
 
 ---
 

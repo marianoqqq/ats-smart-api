@@ -1,6 +1,6 @@
-# ATS Mini (AI-Powered) - API RESTful
+# ATS Smart (AI-Powered) - API RESTful
 
-Bienvenido al repositorio de la API RESTful de **ATS Mini**, un sistema inteligente de análisis de currículums y ofertas laborales desarrollado en **Java 21**, **Spring Boot 3.x** y **Spring Data JPA**. El objetivo principal de esta aplicación es automatizar y optimizar el proceso de reclutamiento mediante el uso de inteligencia artificial para evaluar la compatibilidad de los candidatos respecto a los requisitos de las vacantes publicadas.
+Bienvenido al repositorio de la API RESTful de **ATS Smart**, un sistema inteligente de análisis de currículums y ofertas laborales desarrollado en **Java 21**, **Spring Boot 3.x** y **Spring Data JPA**. El objetivo principal de esta aplicación es automatizar y optimizar el proceso de reclutamiento mediante el uso de inteligencia artificial para evaluar la compatibilidad de los candidatos respecto a los requisitos de las vacantes publicadas.
 
 ---
 
